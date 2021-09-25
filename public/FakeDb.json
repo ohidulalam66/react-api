@@ -1,0 +1,152 @@
+[
+    {
+      "_id": "614adade3ae933d66e6006c5",
+      "name": "Savannah",
+      "gender": "female",
+      "company": "ERSUM",
+      "salary": 138090,
+      "email": "savannahstrickland@ersum.com",
+      "phone": "018 (802) 416-2653",
+      "image": "https://randomuser.me/api/portraits/med/women/37.jpg"
+    },
+    {
+      "_id": "614adade27fabf465bb50f9a",
+      "name": "Ivy",
+      "gender": "male",
+      "company": "XIIX",
+      "salary": 128041,
+      "email": "ivystrickland@xiix.com",
+      "phone": "018 (888) 470-2102",
+      "image": "https://randomuser.me/api/portraits/med/men/83.jpg"
+    },
+    {
+      "_id": "614adade9483bf867f585cff",
+      "name": "Singleton",
+      "gender": "female",
+      "company": "GUSHKOOL",
+      "salary": 96646,
+      "email": "singletonstrickland@gushkool.com",
+      "phone": "018 (993) 531-3884",
+      "image": "https://randomuser.me/api/portraits/med/women/57.jpg"
+    },
+    {
+      "_id": "614adade93e60806be267f05",
+      "name": "Harding",
+      "gender": "male",
+      "company": "SONGBIRD",
+      "salary": 102904,
+      "email": "hardingstrickland@songbird.com",
+      "phone": "018 (829) 456-2096",
+      "image": "https://randomuser.me/api/portraits/med/men/33.jpg"
+    },
+    {
+      "_id": "614adade15228ec812f6559c",
+      "name": "Berger",
+      "gender": "male",
+      "company": "BOILICON",
+      "salary": 122040,
+      "email": "bergerstrickland@boilicon.com",
+      "phone": "018 (961) 572-2739",
+      "image": "https://randomuser.me/api/portraits/med/men/76.jpg"
+    },
+    {
+      "_id": "614adadeadab90becf43ee98",
+      "name": "Francis",
+      "gender": "male",
+      "company": "FURNIGEER",
+      "salary": 106624,
+      "email": "francisstrickland@furnigeer.com",
+      "phone": "018 (931) 515-3970",
+      "image": "https://randomuser.me/api/portraits/med/men/12.jpg"
+    },
+    {
+      "_id": "614adade78e78609c5b7d4e6",
+      "name": "Kirkland",
+      "gender": "female",
+      "company": "TELLIFLY",
+      "salary": 120371,
+      "email": "kirklandstrickland@tellifly.com",
+      "phone": "018 (839) 430-2797",
+      "image": "https://randomuser.me/api/portraits/med/women/57.jpg"
+    },
+    {
+      "_id": "614adade40c190b032249127",
+      "name": "Kristie",
+      "gender": "female",
+      "company": "ZENSURE",
+      "salary": 119681,
+      "email": "kristiestrickland@zensure.com",
+      "phone": "018 (933) 564-2700",
+      "image": "https://randomuser.me/api/portraits/med/women/73.jpg"
+    },
+    {
+      "_id": "614adade03c1572debfd6e32",
+      "name": "Delacruz",
+      "gender": "male",
+      "company": "MARVANE",
+      "salary": 127326,
+      "email": "delacruzstrickland@marvane.com",
+      "phone": "018 (887) 417-2363",
+      "image": "https://randomuser.me/api/portraits/med/men/55.jpg"
+    },
+    {
+      "_id": "614adade45994ba1246260bb",
+      "name": "Ester",
+      "gender": "female",
+      "company": "GRUPOLI",
+      "salary": 115472,
+      "email": "esterstrickland@grupoli.com",
+      "phone": "018 (862) 589-2029",
+      "image": "https://randomuser.me/api/portraits/med/women/12.jpg"
+    },
+    {
+      "_id": "614adade42833721cfa744a6",
+      "name": "Hollie",
+      "gender": "female",
+      "company": "KONGLE",
+      "salary": 81011,
+      "email": "holliestrickland@kongle.com",
+      "phone": "018 (808) 427-2588",
+      "image": "https://randomuser.me/api/portraits/med/women/18.jpg"
+    },
+    {
+      "_id": "614adade5d8c1b4d0630c005",
+      "name": "Benjamin",
+      "gender": "female",
+      "company": "DREAMIA",
+      "salary": 119011,
+      "email": "benjaminstrickland@dreamia.com",
+      "phone": "018 (910) 428-3370",
+      "image": "https://randomuser.me/api/portraits/med/women/15.jpg"
+    },
+    {
+      "_id": "614adade09df47cd6fa8bc54",
+      "name": "Avery",
+      "gender": "male",
+      "company": "COMTOUR",
+      "salary": 118391,
+      "email": "averystrickland@comtour.com",
+      "phone": "018 (936) 532-2322",
+      "image": "https://randomuser.me/api/portraits/med/men/17.jpg"
+    },
+    {
+      "_id": "614adadeb5672c3916642a66",
+      "name": "Olga",
+      "gender": "female",
+      "company": "BLEENDOT",
+      "salary": 122242,
+      "email": "olgastrickland@bleendot.com",
+      "phone": "018 (939) 458-2122",
+      "image": "https://randomuser.me/api/portraits/med/women/8.jpg"
+    },
+    {
+      "_id": "614adade51f6ec758a32586b",
+      "name": "Hansen",
+      "gender": "female",
+      "company": "CODAX",
+      "salary": 124721,
+      "email": "hansenstrickland@codax.com",
+      "phone": "018 (818) 414-2163",
+      "image": "https://randomuser.me/api/portraits/med/women/59.jpg"
+    }
+  ]
